@@ -1,5 +1,8 @@
 # Offline UPI Payment System
 
+### 🌐 Live Demo
+*Live Project Link:* [https://offline-upi-payment.onrender.com/](https://offline-upi-payment.onrender.com/) *(Replace with your actual deployment link once deployed)*
+
 A secure offline UPI payment simulation developed using Spring Boot. The application demonstrates encrypted offline transactions, account management, and secure payment processing without requiring an active internet connection.
 
 ---
@@ -8,7 +11,7 @@ A secure offline UPI payment simulation developed using Spring Boot. The applica
 
 - Offline UPI transaction simulation
 - RSA encryption for secure communication
-- H2 in-memory database
+- PostgreSQL database
 - Spring Boot MVC architecture
 - Thymeleaf dashboard
 - Transaction history
@@ -28,7 +31,7 @@ A secure offline UPI payment simulation developed using Spring Boot. The applica
 - Hibernate
 
 ### Database
-- H2 Database
+- PostgreSQL
 
 ### Frontend
 - HTML
@@ -115,8 +118,6 @@ The application automatically creates demo accounts during startup.
 - NFC Payment
 - QR Code Payment
 - JWT Authentication
-- PostgreSQL
-- Docker Deployment
 - Redis Cache
 - Payment Analytics
 - Mobile Application
