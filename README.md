@@ -1,4 +1,4 @@
-# Offline UPI Payment System
+# Oasis: Digital Library System
 
 ### 🌐 Live Demo
 *Live Project Link:* [https://offline-upi-payment-5vbh.onrender.com](https://offline-upi-payment-5vbh.onrender.com)
