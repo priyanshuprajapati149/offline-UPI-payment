@@ -5,7 +5,7 @@ A Spring Boot backend that demonstrates **offline UPI payments routed through a 
 This repo is the **server side** of that system, plus a software simulator of the mesh so you can demo the whole flow on a single laptop without any real Bluetooth hardware.
 
 ### 🌐 Live Demo
-*Live Project Link:* [https://offline-upi-payment.onrender.com/](https://offline-upi-payment.onrender.com/) *(Replace with your actual deployment link once deployed)*
+*Live Project Link:* [https://offline-upi-payment-5vbh.onrender.com](https://offline-upi-payment-5vbh.onrender.com)
 
 ---
 
